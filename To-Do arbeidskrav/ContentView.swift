@@ -11,7 +11,7 @@ import Combine
 // MARK: - Modellering
 
 enum Status: String, CaseIterable, Identifiable {
-    case notStarted = "Ikke startet endaa"
+    case notStarted = "Ikke startet endaas"
     case inProgress = "Pågår"
     case completed = "Fullført"
 
